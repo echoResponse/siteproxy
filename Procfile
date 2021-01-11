@@ -1,1 +1,1 @@
-web: herokuAddr=http://echoproxy.herokuapp.com/ npm run start
+web: herokuAddr=echoproxy.herokuapp.com npm run start
